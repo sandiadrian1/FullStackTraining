@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "5qqT70ctGHFGfrgcQaFLsHOoD9lUbDXFeGXnFfAq/l0=",
+  "Source": "TechnicalTest",
+  "BasePath": "_content/TechnicalTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TechnicalTest\\wwwroot",
+      "Source": "TechnicalTest",
+      "ContentRoot": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\wwwroot\\",
+      "BasePath": "_content/TechnicalTest",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\wwwroot\\uploads\\5cc6fd54-2c19-4813-b9fb-d3367e28802c_image soal.jpg",
+      "SourceId": "TechnicalTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\wwwroot\\",
+      "BasePath": "_content/TechnicalTest",
+      "RelativePath": "uploads/5cc6fd54-2c19-4813-b9fb-d3367e28802c_image soal.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\5cc6fd54-2c19-4813-b9fb-d3367e28802c_image soal.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\wwwroot\\uploads\\5e6f1538-e1f2-4a0a-ae91-8dc7001e3350_image soal.jpg",
+      "SourceId": "TechnicalTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\wwwroot\\",
+      "BasePath": "_content/TechnicalTest",
+      "RelativePath": "uploads/5e6f1538-e1f2-4a0a-ae91-8dc7001e3350_image soal.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\5e6f1538-e1f2-4a0a-ae91-8dc7001e3350_image soal.jpg"
+    }
+  ]
+}

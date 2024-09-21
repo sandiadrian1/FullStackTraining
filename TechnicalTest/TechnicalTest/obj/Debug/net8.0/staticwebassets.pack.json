@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\wwwroot\\uploads\\5cc6fd54-2c19-4813-b9fb-d3367e28802c_image soal.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5cc6fd54-2c19-4813-b9fb-d3367e28802c_image soal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\wwwroot\\uploads\\5e6f1538-e1f2-4a0a-ae91-8dc7001e3350_image soal.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5e6f1538-e1f2-4a0a-ae91-8dc7001e3350_image soal.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TechnicalTest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TechnicalTest.props",
+      "PackagePath": "build\\TechnicalTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TechnicalTest.props",
+      "PackagePath": "buildMultiTargeting\\TechnicalTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TechnicalTest.props",
+      "PackagePath": "buildTransitive\\TechnicalTest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\technicaltest\\technicaltest\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\technicaltest\\technicaltest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\technicaltest\\technicaltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\technicaltest\\technicaltest\\services\\transactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\services\\transactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\technicaltest\\technicaltest\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\technicaltest\\technicaltest\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\technicaltest\\technicaltest\\models\\dto\\jwttokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\models\\dto\\jwttokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\technicaltest\\technicaltest\\controllers\\itemsconstroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\controllers\\itemsconstroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\technicaltest\\technicaltest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\technicaltest\\technicaltest\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\technicaltest\\technicaltest\\models\\dto\\transactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\models\\dto\\transactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\technicaltest\\technicaltest\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\technicaltest\\technicaltest\\models\\dto\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\models\\dto\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\technicaltest\\technicaltest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|c:\\users\\ajeng azzahra\\source\\repos\\technicaltest\\technicaltest\\models\\transaksiitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CF40DC1-409F-4D6C-9BE4-DC2AE9CF324F}|TechnicalTest\\TechnicalTest.csproj|solutionrelative:technicaltest\\models\\transaksiitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "TechnicalTest\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:21:17.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Services\\JwtService.cs",
+              "RelativeToolTip": "TechnicalTest\\Services\\JwtService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:14:12.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Services\\TransactionServices.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Services\\TransactionServices.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Services\\TransactionServices.cs",
+              "RelativeToolTip": "TechnicalTest\\Services\\TransactionServices.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:24:03.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Program.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Program.cs",
+              "RelativeToolTip": "TechnicalTest\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:47:49.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\appsettings.json",
+              "RelativeDocumentMoniker": "TechnicalTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\appsettings.json",
+              "RelativeToolTip": "TechnicalTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T00:07:17.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Models\\Item.cs",
+              "RelativeToolTip": "TechnicalTest\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:18:35.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtTokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Models\\DTO\\JwtTokenResponse.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Models\\DTO\\JwtTokenResponse.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Models\\DTO\\JwtTokenResponse.cs",
+              "RelativeToolTip": "TechnicalTest\\Models\\DTO\\JwtTokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:13:12.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemsConstroller.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Controllers\\ItemsConstroller.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Controllers\\ItemsConstroller.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Controllers\\ItemsConstroller.cs",
+              "RelativeToolTip": "TechnicalTest\\Controllers\\ItemsConstroller.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAiwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:00:34.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TechnicalTest\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:17:08.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TechnicalTest\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:32:58.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Models\\DTO\\TransactionRequest.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Models\\DTO\\TransactionRequest.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Models\\DTO\\TransactionRequest.cs",
+              "RelativeToolTip": "TechnicalTest\\Models\\DTO\\TransactionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:13:38.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Models\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Models\\DTO\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Models\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "TechnicalTest\\Models\\DTO\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:12:15.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Models\\DTO\\ItemDto.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Models\\DTO\\ItemDto.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Models\\DTO\\ItemDto.cs",
+              "RelativeToolTip": "TechnicalTest\\Models\\DTO\\ItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T00:55:35.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Models\\User.cs",
+              "RelativeToolTip": "TechnicalTest\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:14:13.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TransaksiItem.cs",
+              "DocumentMoniker": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Models\\TransaksiItem.cs",
+              "RelativeDocumentMoniker": "TechnicalTest\\Models\\TransaksiItem.cs",
+              "ToolTip": "C:\\Users\\Ajeng Azzahra\\source\\repos\\TechnicalTest\\TechnicalTest\\Models\\TransaksiItem.cs",
+              "RelativeToolTip": "TechnicalTest\\Models\\TransaksiItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T00:47:50.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
